@@ -23,6 +23,8 @@
 | --- | --- | --- | --- |
 | 某事牽涉到…… | involve + N | This feature involves financial transactions. | 本次付款功能練習補充 |
 | 某功能負責處理付款 | handle payments | This feature handles payments. | 本次付款功能練習補充 |
+| 把整個任務交給他人 | delegate the whole task to someone | You can delegate the whole task to AI. | [低風險時整體交辦](entries/011-where-the-stakes-are-low.md) |
+| 交出某事的所有權或主導權 | cede ownership of + N + to someone | She ceded ownership of the company to her partner. | [ceded ownership](entries/012-ceded-ownership.md) |
 
 ## 因果與影響
 
@@ -38,6 +40,8 @@
 | --- | --- | --- | --- |
 | 承受不起做某事的後果 | can't afford to + V | We can't afford to lose customer trust. | [cannot afford to](entries/002-cannot-afford-to.md) |
 | 別放鬆警惕 | Don't let your guard down. | We can't afford to let our guard down. | [relax your vigilance](entries/001-relax-your-vigilance.md) |
+| 在某類情況下，給出建議 | Where + 情況子句, + 建議 | Where accuracy matters, check the original source. | [Where 的情況用法](entries/011-where-the-stakes-are-low.md) |
+| 出錯或輸贏的代價不高 | the stakes are low | Where the stakes are low, feel free to delegate entirely. | [低風險時整體交辦](entries/011-where-the-stakes-are-low.md) |
 
 ## 狀態變化
 
