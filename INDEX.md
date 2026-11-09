@@ -6,3 +6,4 @@
 | --- | --- | --- | --- | --- | --- |
 | 001 | [relax your vigilance](entries/001-relax-your-vigilance.md) | 放鬆警惕 | 風險與應對 | 科技與媒體、健康與心理 | 待確認 |
 | 002 | [cannot afford to](entries/002-cannot-afford-to.md) | 負擔不起；承受不起做某事的後果 | 思考與決策 | 工作與經濟、教育與校園、科技與媒體 | 待確認 |
+| 003 | [cease to](entries/003-cease-to.md) | 不再；停止做某事或處於某種狀態 | 社會與知識 | 工作與經濟、科技與媒體、文化與歷史 | 待確認 |
