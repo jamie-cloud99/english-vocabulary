@@ -22,7 +22,7 @@ tags: [資源限制, 後果, 必要性, 中性語氣]
 
 ## 中文與語感
 
-`cannot afford to + 原形動詞` 有兩個常見意思。
+`cannot afford to + V` 有兩個常見意思。
 
 1. 負擔不起做某事所需的金錢、時間或其他資源。
 2. 承受不起做某事的後果，常可譯為「不能冒險……」或「絕不能……」。
@@ -39,6 +39,23 @@ tags: [資源限制, 後果, 必要性, 中性語氣]
 - 後面接動詞時，`to` 通常弱讀為 /tə/；單獨強調或位於句尾時可讀 /tu/。
 - `cannot afford` 或 `can't afford` 的 /t/ 接 /ə/，可連接發音。`cannot` 的 /t/ 在部分美式快語速中可成為閃音 [ɾ]。
 - `can't` 的否定意義要保留清楚；不必為了連音刻意省略 /t/。
+
+### 美式 can、cannot 與 can't 的聽力區分
+
+| 形式 | 常見發音與重音 |
+| --- | --- |
+| can，肯定 | 非重讀時通常弱讀為 /kən/，短而輕。強調或單獨回答時也會讀完整的 /kæn/。 |
+| cannot，否定 | /ˈkænɑt/，第一音節通常重讀，保留完整 /æ/；強調否定時也可能重讀後面的 not。 |
+| can't，否定 | /kænt/，通常比非重讀的 can 更突出，保留完整 /æ/。 |
+
+聽力先留意重音、母音是否弱化，以及語境。時長可當輔助線索，但不能用「母音較長就是否定」判斷。
+美式 `can't` 的 /t/ 可能不完全釋放，或以喉塞音 [ʔ] 呈現，聽起來像被「吞掉」；沒有明顯的 /t/ 爆破聲，不代表一定是肯定的 `can`。有時仍能聽到短暫的停頓或截斷感。
+
+- `I can go.` 中的 can 通常弱讀 /kən/，重音落在 go。
+- `I can't go.` 中的 can't 通常較突出，使用完整 /æ/。
+- `Yes, I can.` 中肯定的 can 也會重讀 /kæn/，所以不能只靠重音判定肯否定。
+
+參考：[VOA Learning English 的美式 can／can't 聽力說明](https://learningenglish.voanews.com/a/can-and-can-t-hearing-the-difference-/5971519.html)、[BBC 的 can 強讀與弱讀說明](https://downloads.bbc.co.uk/learningenglish/towardsadvanced/unit_16/bbc_tims_pron_wkshp_can.pdf)。
 
 ## 近義詞比較
 
@@ -57,7 +74,7 @@ tags: [資源限制, 後果, 必要性, 中性語氣]
 
 ## 常見用法與例句
 
-### can't afford to + 原形動詞
+### can't afford to + V
 
 > I can't afford to study abroad right now.
 
@@ -71,7 +88,7 @@ tags: [資源限制, 後果, 必要性, 中性語氣]
 
 企業承受不起忽視資安風險的後果。
 
-### can't afford not to + 原形動詞
+### can't afford not to + V
 
 表示「承受不起不做的後果」，也就是「非做不可」。注意否定的位置會改變意思。
 
@@ -87,7 +104,7 @@ tags: [資源限制, 後果, 必要性, 中性語氣]
 
 我買不起新筆電。
 
-此用法接動作時用 `afford to do`，不用 `afford doing`。
+此用法接動作時用 `afford to + V`，不用 `afford + V-ing`。
 
 ## 難字估計程度
 
