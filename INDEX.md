@@ -10,3 +10,5 @@
 | 004 | [drift down the spectrum](entries/004-drift-down-the-spectrum.md) | 沿著光譜逐漸滑移；此處指往認知投降的一端移動 | 思考與決策 | 科技與媒體、健康與心理 | 待確認 |
 | 005 | [pristine](entries/005-pristine.md) | 潔淨如新的；保持原始、未受破壞的 | 社會與知識 | 環境與自然、工作與經濟 | 待確認 |
 | 006 | [To be clear](entries/006-to-be-clear.md) | 說清楚一點；先澄清一下 | 人際與溝通 | 教育與校園、工作與經濟、科技與媒體 | 待確認 |
+| 007 | [result in + N](entries/007-result-in.md) | 導致；造成某結果 | 思考與決策 | 科技與媒體、環境與自然、工作與經濟 | 待確認 |
+| 008 | [serious consequence](entries/008-serious-consequence.md) | 嚴重後果；常用複數 serious consequences | 風險與應對 | 科技與媒體、健康與心理、工作與經濟 | 待確認 |
