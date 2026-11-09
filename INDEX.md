@@ -16,3 +16,4 @@
 | 010 | [official documentation](entries/010-official-documentation.md) | 官方文件；官方提供的一套說明資料 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
 | 011 | [Where the stakes are low, feel free to delegate entirely](entries/011-where-the-stakes-are-low.md) | 在出錯代價不高的情況下，可以放心把整件事委派出去 | 思考與決策 | 科技與媒體、工作與經濟 | 待確認 |
 | 012 | [cede ownership](entries/012-cede-ownership.md) | 讓出所有權；比喻交出主導權 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
+| 013 | [formulate](entries/013-formulate.md) | 仔細構思並擬定；清楚表述 | 思考與決策 | 教育與校園、科技與媒體、工作與經濟 | 待確認 |
