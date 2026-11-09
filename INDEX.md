@@ -17,3 +17,8 @@
 | 011 | [Where the stakes are low, feel free to delegate entirely](entries/011-where-the-stakes-are-low.md) | 在出錯代價不高的情況下，可以放心把整件事委派出去 | 思考與決策 | 科技與媒體、工作與經濟 | 待確認 |
 | 012 | [cede ownership](entries/012-cede-ownership.md) | 讓出所有權；比喻交出主導權 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
 | 013 | [formulate](entries/013-formulate.md) | 仔細構思並擬定；清楚表述 | 思考與決策 | 教育與校園、科技與媒體、工作與經濟 | 待確認 |
+| 014 | [meet standards](entries/014-meet-standards.md) | 達到標準 | 工作與協作 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
+| 015 | [make the cut](entries/015-make-the-cut.md) | 通過篩選；獲選、被採用 | 工作與協作 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
+| 016 | [compound](entries/016-compound.md) | 累積增長；使問題加劇 | 思考與決策 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
+| 017 | [on its own](entries/017-on-its-own.md) | 單獨地；此處指單就本身而言 | 思考與決策 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
+| 018 | [be good practice](entries/018-be-good-practice.md) | 是良好做法；是有益練習 | 工作與協作 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |

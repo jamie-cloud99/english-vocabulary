@@ -7,7 +7,7 @@
 
 依溝通目的分類，同一表達放在最直接的需求下。新增時先找現有分類，確實有新用途再擴充。
 
-[溝通與確認](#溝通與確認) · [功能與範圍](#功能與範圍) · [思考與規劃](#思考與規劃) · [因果與影響](#因果與影響) · [風險與限制](#風險與限制) · [狀態變化](#狀態變化) · [物品描述](#物品描述)
+[溝通與確認](#溝通與確認) · [功能與範圍](#功能與範圍) · [評估與改進](#評估與改進) · [思考與規劃](#思考與規劃) · [因果與影響](#因果與影響) · [風險與限制](#風險與限制) · [狀態變化](#狀態變化) · [物品描述](#物品描述)
 
 ## 溝通與確認
 
@@ -25,6 +25,17 @@
 | 某功能負責處理付款 | handle payments | This feature handles payments. | 本次付款功能練習補充 |
 | 把整個任務交給他人 | delegate the whole task to someone | You can delegate the whole task to AI. | [低風險時整體交辦](entries/011-where-the-stakes-are-low.md) |
 | 交出某事的所有權或主導權 | cede ownership of + N + to someone | She ceded ownership of the company to her partner. | [cede ownership](entries/012-cede-ownership.md) |
+
+## 評估與改進
+
+| 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
+| --- | --- | --- | --- |
+| 達到標準 | meet standards | This answer doesn't meet our standards. | [meet standards](entries/014-meet-standards.md) |
+| 通過篩選、獲選 | make the cut | The proposal didn't make the cut. | [make the cut](entries/015-make-the-cut.md) |
+| 成果隨時間累積放大 | compound over time | The benefits of small improvements can compound over time. | [compound](entries/016-compound.md) |
+| 單就本身而言就有用 | be useful on its own | The report is useful on its own. | [on its own](entries/017-on-its-own.md) |
+| 做某事是良好做法 | It's good practice to + V | It's good practice to record the reason. | [be good practice](entries/018-be-good-practice.md) |
+| 記下某事發生的原因 | note why + 子句 | Note why the answer failed. | [段落延伸句型](entries/014-meet-standards.md) |
 
 ## 思考與規劃
 
