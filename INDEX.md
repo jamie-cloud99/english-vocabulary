@@ -15,4 +15,4 @@
 | 009 | [like new](entries/009-like-new.md) | 像新的一樣；狀態或運作如新 | 日常生活 | 工作與經濟 | 待確認 |
 | 010 | [official documentation](entries/010-official-documentation.md) | 官方文件；官方提供的一套說明資料 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
 | 011 | [Where the stakes are low, feel free to delegate entirely](entries/011-where-the-stakes-are-low.md) | 在出錯代價不高的情況下，可以放心把整件事委派出去 | 思考與決策 | 科技與媒體、工作與經濟 | 待確認 |
-| 012 | [ceded ownership](entries/012-ceded-ownership.md) | 讓出了所有權；比喻交出了主導權 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
+| 012 | [cede ownership](entries/012-cede-ownership.md) | 讓出所有權；比喻交出主導權 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |

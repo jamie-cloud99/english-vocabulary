@@ -1,21 +1,21 @@
 ---
 id: "012"
-expression: "ceded ownership"
+expression: "cede ownership"
 type: "collocation"
 added: "2026-11-09"
 category: "工作與協作"
 exam_topics: [科技與媒體, 工作與經濟]
 functions: [權責與控制]
 status: "待確認"
-tags: [所有權, 主導權, 正式用語, 過去式]
+tags: [所有權, 主導權, 正式用語]
 ---
 
-# 012｜ceded ownership
+# 012｜cede ownership
 
 ## 中文與語感
 
-讓出了所有權；比喻交出了主導權。
-`ceded` 是 `cede` 的過去式／p.p.。`cede` 是 V，表示把某種權利、控制或持有的東西讓給別人，語氣正式，常帶不情願或在壓力下讓出的意味，但不是每次都表示被迫。
+讓出所有權；比喻交出主導權。
+原始輸入為 `ceded ownership`，詞條以原形 `cede ownership` 收錄。`ceded` 是 `cede` 的過去式／p.p.。`cede` 是 V，表示把某種權利、控制或持有的東西讓給別人，語氣正式，常帶不情願或在壓力下讓出的意味，但不是每次都表示被迫。
 `ownership` 是 N，通常不可數，可指實際擁有關係；在工作、思考或創作語境中，也可能比喻主導、投入或負責的關係。
 
 尚未提供完整句子，因此不能確認此處是哪個詞義。若延續 AI 與認知投降的討論，可能指「把思考或決策的主導權交出去」，不應直接解讀成法律所有權移轉。
@@ -30,12 +30,14 @@ tags: [所有權, 主導權, 正式用語, 過去式]
 
 ## 發音
 
-美式 IPA：/ˈsiːdɪd ˈoʊnərʃɪp/。
+美式 IPA：/siːd ˈoʊnərʃɪp/。
+
+過去式：`ceded ownership` /ˈsiːdɪd ˈoʊnərʃɪp/。
 
 - 原形 `cede` /siːd/ 只有一個音節。
 - `cede` 以 /d/ 結尾，`ceded` 的 -ed 讀 /ɪd/，增加一個音節。
 - `ownership` 重音在 /oʊ/，中間的 /ər/ 為弱音節。
-- `ceded ownership` 的尾音 /d/ 可與後面的 /oʊ/ 連接，不必在詞界停頓。
+- `cede ownership` 的尾音 /d/ 可與後面的 /oʊ/ 連接，不必在詞界停頓。
 
 ## 句型與例句
 

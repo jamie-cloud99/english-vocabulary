@@ -24,7 +24,7 @@
 | 某事牽涉到…… | involve + N | This feature involves financial transactions. | 本次付款功能練習補充 |
 | 某功能負責處理付款 | handle payments | This feature handles payments. | 本次付款功能練習補充 |
 | 把整個任務交給他人 | delegate the whole task to someone | You can delegate the whole task to AI. | [低風險時整體交辦](entries/011-where-the-stakes-are-low.md) |
-| 交出某事的所有權或主導權 | cede ownership of + N + to someone | She ceded ownership of the company to her partner. | [ceded ownership](entries/012-ceded-ownership.md) |
+| 交出某事的所有權或主導權 | cede ownership of + N + to someone | She ceded ownership of the company to her partner. | [cede ownership](entries/012-cede-ownership.md) |
 
 ## 因果與影響
 
