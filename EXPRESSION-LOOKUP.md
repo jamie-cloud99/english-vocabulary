@@ -7,6 +7,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 請對方提供工具的官方說明文件 | share the tool's official documentation | Could you share the tool's official documentation? | [official documentation](entries/010-official-documentation.md) |
 | 承受不起做某事的後果 | can't afford to + V | We can't afford to lose customer trust. | [cannot afford to](entries/002-cannot-afford-to.md) |
 | 某事牽涉到…… | involve + N | This feature involves financial transactions. | 本次付款功能練習補充 |
 | 某功能負責處理付款 | handle payments | This feature handles payments. | 本次付款功能練習補充 |
