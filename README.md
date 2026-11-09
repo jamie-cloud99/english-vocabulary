@@ -7,6 +7,7 @@
 
 前往 [單字本索引](INDEX.md) 瀏覽全部詞條與分類。README 保留整理規則，各詞條內容存放於 `entries/`。
 腦中有意思卻想不起英文時，可用 [表達需求查找](EXPRESSION-LOOKUP.md)，從中文意圖尋找可組合的英文片段。
+Agent 的新增、練習與進度維護流程由 repo 內的 [english-learning skill](.agents/skills/english-learning/SKILL.md) 串接；詞條、規則與個人進度各自保存在下列文件。
 
 ## 分類方式
 
