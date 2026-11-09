@@ -12,3 +12,4 @@
 | 006 | [To be clear](entries/006-to-be-clear.md) | 說清楚一點；先澄清一下 | 人際與溝通 | 教育與校園、工作與經濟、科技與媒體 | 待確認 |
 | 007 | [result in + N](entries/007-result-in.md) | 導致；造成某結果 | 思考與決策 | 科技與媒體、環境與自然、工作與經濟 | 待確認 |
 | 008 | [serious consequence](entries/008-serious-consequence.md) | 嚴重後果；常用複數 serious consequences | 風險與應對 | 科技與媒體、健康與心理、工作與經濟 | 待確認 |
+| 009 | [like new](entries/009-like-new.md) | 像新的一樣；狀態或運作如新 | 日常生活 | 工作與經濟 | 待確認 |
