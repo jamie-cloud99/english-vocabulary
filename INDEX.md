@@ -22,3 +22,4 @@
 | 016 | [compound](entries/016-compound.md) | 累積增長；使問題加劇 | 思考與決策 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
 | 017 | [on its own](entries/017-on-its-own.md) | 單獨地；此處指單就本身而言 | 思考與決策 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
 | 018 | [be good practice](entries/018-be-good-practice.md) | 是良好做法；是有益練習 | 工作與協作 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
+| 019 | [boil the ocean](entries/019-boil-the-ocean.md) | 企圖一次解決範圍過大、不切實際的問題 | 工作與協作 | 工作與經濟、科技與媒體 | 待確認 |

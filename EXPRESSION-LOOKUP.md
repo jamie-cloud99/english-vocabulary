@@ -41,6 +41,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 別想一次解決過大範圍的問題 | Let's not boil the ocean. | Let's not boil the ocean. We only need to fix the payment bug today. | [boil the ocean](entries/019-boil-the-ocean.md) |
 | 構思並明確提出假說 | formulate a hypothesis | We need to formulate a hypothesis before designing the experiment. | [formulate](entries/013-formulate.md) |
 | 仔細擬定計畫或策略 | formulate a plan / strategy | Let's formulate a plan before making any changes. | [formulate](entries/013-formulate.md) |
 
