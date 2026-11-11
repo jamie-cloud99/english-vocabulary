@@ -1,6 +1,6 @@
 ---
 name: english-learning
-description: 維護此 repo 的英文單字本與個人應用練習。用於新增表達、分類查找頁、回饋英文答案、接續練習及記錄學習進度。
+description: 維護此 repo 的英文單字本與個人練習。用於新增表達、分類查找頁、情境應用、每日三句話微型寫作及記錄學習進度。
 ---
 
 # English learning
@@ -14,6 +14,8 @@ description: 維護此 repo 的英文單字本與個人應用練習。用於新�
 新增或補充詞條後同步索引。值得主動取用的片段補入 [EXPRESSION-LOOKUP.md](../../../EXPRESSION-LOOKUP.md)，依溝通目的放入現有分類；需要新分類時才擴充。同一筆需求保留一個位置。
 
 ## 練習與回饋
+
+若使用者要求每日三句話、微型寫作或接續該支線，讀 [微型寫作規則](../../../micro-writing/README.md) 與 [寫作進度](../../../micro-writing/PROGRESS.md)，按該支線出題、回饋及存檔；一般情境應用走以下流程。
 
 開始、接續練習或回饋答案前，讀 [PRACTICE.md](../../../PRACTICE.md) 與 [LEARNING-PROGRESS.md](../../../LEARNING-PROGRESS.md)。按目前進度接續，一次一題，優先英文情境自由回答。
 
