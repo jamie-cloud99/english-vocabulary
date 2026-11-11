@@ -30,6 +30,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 把某人或某物當成彷彿不會出錯的權威 | treat + O + as an oracle | Don't treat a market forecast as an oracle. | [oracle](entries/020-oracle.md) |
 | 達到標準 | meet standards | This answer doesn't meet our standards. | [meet standards](entries/014-meet-standards.md) |
 | 通過篩選、獲選 | make the cut | The proposal didn't make the cut. | [make the cut](entries/015-make-the-cut.md) |
 | 成果隨時間累積放大 | compound over time | The benefits of small improvements can compound over time. | [compound](entries/016-compound.md) |

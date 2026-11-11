@@ -23,3 +23,4 @@
 | 017 | [on its own](entries/017-on-its-own.md) | 單獨地；此處指單就本身而言 | 思考與決策 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
 | 018 | [be good practice](entries/018-be-good-practice.md) | 是良好做法；是有益練習 | 工作與協作 | 科技與媒體、教育與校園、工作與經濟 | 待確認 |
 | 019 | [boil the ocean](entries/019-boil-the-ocean.md) | 企圖一次解決範圍過大、不切實際的問題 | 工作與協作 | 工作與經濟、科技與媒體 | 待確認 |
+| 020 | [oracle](entries/020-oracle.md) | 神諭、傳達神諭者；比喻提供答案的權威 | 社會與知識 | 文化與歷史、工作與經濟、科技與媒體 | 待確認 |
