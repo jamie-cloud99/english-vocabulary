@@ -28,3 +28,8 @@
 | 022 | [deliberate](entries/022-deliberate.md) | 故意的、慎重的；仔細考慮 | 思考與決策 | 工作與經濟、教育與校園、社會與公共政策 | 待確認 |
 | 023 | [workaround](entries/023-workaround.md) | 繞過問題的變通辦法，未必解決根本原因 | 思考與決策 | 工作與經濟、科技與媒體 | 待確認 |
 | 024 | [gripe](entries/024-gripe.md) | 抱怨、不滿之處；發牢騷 | 人際與溝通 | 工作與經濟、社會與公共政策 | 待確認 |
+| 025 | [hope](entries/025-hope.md) | 希望；hoping 補充行動時的期待 | 人際與溝通 | — | 待確認 |
+| 026 | [turn A into B](entries/026-turn-a-into-b.md) | 把 A 變成 B | 日常生活 | — | 待確認 |
+| 027 | [fleeting moments](entries/027-fleeting-moments.md) | 轉瞬即逝的時刻 | 情緒與心理 | — | 待確認 |
+| 028 | [What makes it worthwhile is ...](entries/028-what-makes-it-worthwhile.md) | 讓這件事值得的是…… | 思考與決策 | — | 待確認 |
+| 029 | [otherwise](entries/029-otherwise.md) | 否則；在其他情況下；除此之外 | 思考與決策 | — | 待確認 |

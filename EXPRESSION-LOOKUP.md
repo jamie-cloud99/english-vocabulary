@@ -31,6 +31,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 說明一件事究竟值得在哪裡 | What makes + O + worthwhile is ... | What makes the trip worthwhile is the time we spend together. | [What makes it worthwhile is ...](entries/028-what-makes-it-worthwhile.md) |
 | 發現兩份原本應一致的資料對不起來 | a discrepancy between A and B | There is a discrepancy between the invoice and our records. | [discrepancy](entries/021-discrepancy.md) |
 | 把某人或某物當成彷彿不會出錯的權威 | treat + O + as an oracle | Don't treat a market forecast as an oracle. | [oracle](entries/020-oracle.md) |
 | 達到標準 | meet standards | This answer doesn't meet our standards. | [meet standards](entries/014-meet-standards.md) |
@@ -44,6 +45,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 補充做某事時抱持的期待 | ..., hoping + (that) + S + could + V | I arrived early, hoping I could get a seat. | [hope 與 hoping 子句](entries/025-hope.md) |
 | 仔細商議某個問題 | deliberate on / over + N | The committee deliberated on the proposal. | [deliberate](entries/022-deliberate.md) |
 | 有意識地努力做某事 | make a deliberate effort to + V | I made a deliberate effort to listen more carefully. | [deliberate](entries/022-deliberate.md) |
 | 別想一次解決過大範圍的問題 | Let's not boil the ocean. | Let's not boil the ocean. We only need to fix the payment bug today. | [boil the ocean](entries/019-boil-the-ocean.md) |
@@ -54,6 +56,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 如果沒有前述幫助，本來可能會…… | might otherwise + V | Photos help us notice moments we might otherwise overlook. | [otherwise](entries/029-otherwise.md) |
 | 導致某個結果 | result in + N / V-ing | Poor testing could result in payment errors. | [result in](entries/007-result-in.md) |
 | 某個結果源於…… | result from + N / V-ing | The errors resulted from poor testing. | [result 句型比較](entries/007-result-in.md) |
 | 對……造成嚴重後果 | have serious consequences for + N | A payment error could have serious consequences for customers. | [serious consequence](entries/008-serious-consequence.md) |
@@ -72,6 +75,8 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 把 A 轉化成 B | turn A into B | We turned a spare room into a home office. | [turn A into B](entries/026-turn-a-into-b.md) |
+| 把稍縱即逝的時刻化為長久回憶 | turn fleeting moments into lasting memories | Photos can turn fleeting moments into lasting memories. | [fleeting moments](entries/027-fleeting-moments.md) |
 | 不再做某事或處於某種狀態 | cease to + V | The equipment ceased to function. | [cease to](entries/003-cease-to.md) |
 | 不知不覺變得更依賴…… | drift toward greater dependence on + N | Users may drift toward greater dependence on AI. | [drift down the spectrum](entries/004-drift-down-the-spectrum.md) |
 
