@@ -27,3 +27,4 @@
 | 021 | [discrepancy](entries/021-discrepancy.md) | 原本應一致的事物之間出現差異、不符 | 思考與決策 | 工作與經濟、教育與校園 | 待確認 |
 | 022 | [deliberate](entries/022-deliberate.md) | 故意的、慎重的；仔細考慮 | 思考與決策 | 工作與經濟、教育與校園、社會與公共政策 | 待確認 |
 | 023 | [workaround](entries/023-workaround.md) | 繞過問題的變通辦法，未必解決根本原因 | 思考與決策 | 工作與經濟、科技與媒體 | 待確認 |
+| 024 | [gripe](entries/024-gripe.md) | 抱怨、不滿之處；發牢騷 | 人際與溝通 | 工作與經濟、社會與公共政策 | 待確認 |

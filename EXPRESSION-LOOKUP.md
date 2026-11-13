@@ -13,6 +13,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 表達唯一不滿的地方 | My only gripe is that + 子句 | My only gripe is that the tickets are too expensive. | [gripe](entries/024-gripe.md) |
 | 請對方提供工具的官方說明文件 | share the tool's official documentation | Could you share the tool's official documentation? | [official documentation](entries/010-official-documentation.md) |
 | 先把意思說清楚 | To be clear, + 子句 | To be clear, we still need to test this feature. | [To be clear](entries/006-to-be-clear.md) |
 | 我確認一下，你的意思是……嗎？ | Just to be clear, are you saying ...? | Just to be clear, are you saying we should delay the release? | [To be clear](entries/006-to-be-clear.md) |
