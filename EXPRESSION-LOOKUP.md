@@ -70,6 +70,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 某事占據資源，排擠了其他重要事情 | crowd out + N | Work has crowded out my hobbies lately. | [crowd out](entries/036-crowd-out.md) |
 | 因某個事故收到緊急呼叫 | get paged for + N | I got paged for a payment failure. | [get paged for](entries/033-get-paged-for.md) |
 | 先繞過問題，讓事情繼續進行 | find a workaround for + N | We found a workaround for the booking problem. | [workaround](entries/023-workaround.md) |
 | 承受不起做某事的後果 | can't afford to + V | We can't afford to lose customer trust. | [cannot afford to](entries/002-cannot-afford-to.md) |

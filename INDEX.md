@@ -39,3 +39,4 @@
 | 033 | [get paged for](entries/033-get-paged-for.md) | 因某事收到呼叫或緊急通知 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
 | 034 | [ratification](entries/034-ratification.md) | 正式批准、認可；依語境可指追認 | 工作與協作 | 工作與經濟、社會與公共政策 | 待確認 |
 | 035 | [account for](entries/035-account-for.md) | 解釋、是……的原因；占比；納入計算或規劃 | 思考與決策 | 工作與經濟、社會與公共政策、教育與校園 | 待確認 |
+| 036 | [crowd out](entries/036-crowd-out.md) | 擠掉、排擠其他人事物的空間或機會 | 思考與決策 | 工作與經濟、健康與心理、環境與自然 | 待確認 |
