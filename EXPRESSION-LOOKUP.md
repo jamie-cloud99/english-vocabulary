@@ -46,6 +46,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 做產品方面的決策或取捨 | make a product call | Who makes the final product call? | [product call](entries/032-product-call.md) |
 | 補充做某事時抱持的期待 | ..., hoping + (that) + S + could + V | I arrived early, hoping I could get a seat. | [hope 與 hoping 子句](entries/025-hope.md) |
 | 仔細商議某個問題 | deliberate on / over + N | The committee deliberated on the proposal. | [deliberate](entries/022-deliberate.md) |
 | 有意識地努力做某事 | make a deliberate effort to + V | I made a deliberate effort to listen more carefully. | [deliberate](entries/022-deliberate.md) |
@@ -66,6 +67,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 因某個事故收到緊急呼叫 | get paged for + N | I got paged for a payment failure. | [get paged for](entries/033-get-paged-for.md) |
 | 先繞過問題，讓事情繼續進行 | find a workaround for + N | We found a workaround for the booking problem. | [workaround](entries/023-workaround.md) |
 | 承受不起做某事的後果 | can't afford to + V | We can't afford to lose customer trust. | [cannot afford to](entries/002-cannot-afford-to.md) |
 | 別放鬆警惕 | Don't let your guard down. | We can't afford to let our guard down. | [relax your vigilance](entries/001-relax-your-vigilance.md) |

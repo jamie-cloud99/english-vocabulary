@@ -35,3 +35,5 @@
 | 029 | [otherwise](entries/029-otherwise.md) | 否則；在其他情況下；除此之外 | 思考與決策 | — | 待確認 |
 | 030 | [underlying](entries/030-underlying.md) | 潛在的、根本的；作為基礎的 | 思考與決策 | 工作與經濟、健康與心理、社會與公共政策 | 待確認 |
 | 031 | [go off course](entries/031-go-off-course.md) | 偏離路線；偏離原定方向或目標 | 思考與決策 | 工作與經濟、教育與校園 | 待確認 |
+| 032 | [product call](entries/032-product-call.md) | 產品決策或取捨；也可能指產品相關通話 | 工作與協作 | 工作與經濟、科技與媒體 | 待確認 |
+| 033 | [get paged for](entries/033-get-paged-for.md) | 因某事收到呼叫或緊急通知 | 工作與協作 | 科技與媒體、工作與經濟 | 待確認 |
