@@ -59,6 +59,8 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 解釋某個現象或差異的原因 | account for + N | Can you account for the difference between these two totals? | [account for](entries/035-account-for.md) |
+| 說明某部分占整體多少 | account for + 比例 + of + 整體 | Rent accounts for about a third of my monthly spending. | [account for 的占比用法](entries/035-account-for.md) |
 | 如果沒有前述幫助，本來可能會…… | might otherwise + V | Photos help us notice moments we might otherwise overlook. | [otherwise](entries/029-otherwise.md) |
 | 導致某個結果 | result in + N / V-ing | Poor testing could result in payment errors. | [result in](entries/007-result-in.md) |
 | 某個結果源於…… | result from + N / V-ing | The errors resulted from poor testing. | [result 句型比較](entries/007-result-in.md) |
