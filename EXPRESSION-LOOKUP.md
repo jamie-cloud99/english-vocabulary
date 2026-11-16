@@ -76,6 +76,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 計畫或行動偏離原定方向 | go off course | The project went off course when we lost sight of the customer's needs. | [go off course](entries/031-go-off-course.md) |
 | 把 A 轉化成 B | turn A into B | We turned a spare room into a home office. | [turn A into B](entries/026-turn-a-into-b.md) |
 | 把稍縱即逝的時刻化為長久回憶 | turn fleeting moments into lasting memories | Photos can turn fleeting moments into lasting memories. | [fleeting moments](entries/027-fleeting-moments.md) |
 | 不再做某事或處於某種狀態 | cease to + V | The equipment ceased to function. | [cease to](entries/003-cease-to.md) |

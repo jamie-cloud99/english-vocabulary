@@ -34,3 +34,4 @@
 | 028 | [What makes it worthwhile is ...](entries/028-what-makes-it-worthwhile.md) | 讓這件事值得的是…… | 思考與決策 | — | 待確認 |
 | 029 | [otherwise](entries/029-otherwise.md) | 否則；在其他情況下；除此之外 | 思考與決策 | — | 待確認 |
 | 030 | [underlying](entries/030-underlying.md) | 潛在的、根本的；作為基礎的 | 思考與決策 | 工作與經濟、健康與心理、社會與公共政策 | 待確認 |
+| 031 | [go off course](entries/031-go-off-course.md) | 偏離路線；偏離原定方向或目標 | 思考與決策 | 工作與經濟、教育與校園 | 待確認 |
