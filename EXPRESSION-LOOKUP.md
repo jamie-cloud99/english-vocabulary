@@ -31,6 +31,7 @@
 
 | 我想表達 | 可取用的英文 | 例句 | 詳細筆記 |
 | --- | --- | --- | --- |
+| 找出或處理表象背後的原因 | identify / address the underlying cause | We need to address the underlying cause of the problem. | [underlying](entries/030-underlying.md) |
 | 說明一件事究竟值得在哪裡 | What makes + O + worthwhile is ... | What makes the trip worthwhile is the time we spend together. | [What makes it worthwhile is ...](entries/028-what-makes-it-worthwhile.md) |
 | 發現兩份原本應一致的資料對不起來 | a discrepancy between A and B | There is a discrepancy between the invoice and our records. | [discrepancy](entries/021-discrepancy.md) |
 | 把某人或某物當成彷彿不會出錯的權威 | treat + O + as an oracle | Don't treat a market forecast as an oracle. | [oracle](entries/020-oracle.md) |
